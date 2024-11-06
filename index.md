@@ -22,7 +22,7 @@ mxd4207@miami.edu
 
 **Graduate Teaching Assistant**, University of Miami, 08/2021 – present 
 
-**High School English Teacher**, Archimedean Upper Conservatory, Miami, FL, 2019 – 2021
+**High School English Teacher**, Archimedean Upper Conservatory, 2019 – 2021
 
 ## Fellowships
 **GAFAC Travel Award**, Spring 2024
