@@ -14,7 +14,7 @@ mxd4207@miami.edu
 - **University at Buffalo** - M.A., English Literature
 - **SUNY Oswego** - B.A., Sociology and Creative Writing
 
-## Work
+## Teaching and Instructional Experience
 **UGrow Fellow, Writing Studies**, University of Miami, 08/2023 – present
 
 **Graduate Teaching Assistant**, University of Miami, 08/2021 – present 
