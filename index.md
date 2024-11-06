@@ -22,7 +22,7 @@ mxd4207@miami.edu
 **High School English Teacher**, Archimedean Upper Conservatory, 2019 – 2021
 
 ## Fellowships and Awards
-**GAFAC Travel Award**, Spring 2024
+**Graduate Activity Fee Allocation Committee (GAFAC) Travel Award**, Spring 2024
 
 **Kriloff Travel Award**, Spring 2023, Spring 2024
 
