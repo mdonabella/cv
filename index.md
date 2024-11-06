@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-# Micaela Donabella
 
 ## About me
 
