@@ -28,7 +28,7 @@ mxd4207@miami.edu
 
 **UGrow Fellow**, Writing Studies, AY 2023 - 2024
 
-**Digital Humanities Graduate Fellow**, Mapping Imaginary Miami, 05/2023 – 09/2023
+**Digital Humanities Graduate Fellow**, *Mapping Imaginary Miami*, 05/2023 – 09/2023
 
 ## Conference Presentations 
 "Cyborgs, Robots, and Surplus Labor," Northeast Modern Language Association Annual Convention, Philadelphia, PA, March 6-9, 2025 (accepted)
