@@ -10,20 +10,18 @@ layout: default
 mxd4207@miami.edu
 
 ## Education
-
 - **University of Miami** - Ph.D. Candidate/Graduate Assistant, English Literature
 - **University at Buffalo** - M.A., English Literature
 - **SUNY Oswego** - B.A., Sociology and Creative Writing
 
 ## Work
-
 **UGrow Fellow, Writing Studies**, University of Miami, 08/2023 – present
 
 **Graduate Teaching Assistant**, University of Miami, 08/2021 – present 
 
 **High School English Teacher**, Archimedean Upper Conservatory, 2019 – 2021
 
-## Fellowships
+## Fellowships and Awards
 **GAFAC Travel Award**, Spring 2024
 
 **Kriloff Travel Award**, Spring 2023, Spring 2024
