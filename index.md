@@ -4,7 +4,7 @@ layout: default
 
 ## About me
 
-**Micaela** is a fourth-year PhD candidate. Her research focuses on representations of disability and technology within literary and internet cultures. Prior to beginning her PhD, she spent three years working as a K-12 educator and received an M.A. in English from the University at Buffalo. Micaela served as the UGrow Writing Studies Fellow during academic year 2023-2024 and was formerly a Digital Humanities Graduate Fellow on “Mapping Imaginary Miami,” supervised by Dr. Allison Schifani. Micaela has presented work at various conferences including the American Comparative Literature Association Annual Meeting and the Northeast Modern Language Annual Convention. She is the current Vice President of UM’s English Graduate Organization.
+**Micaela** is a fourth-year PhD candidate at the University of Miami. Her research focuses on representations of disability and technology within literary and internet cultures. Prior to beginning her PhD, she spent three years working as a K-12 educator and received an M.A. in English from the University at Buffalo. Micaela served as the UGrow Writing Studies Fellow during academic year 2023-2024 and was formerly a Digital Humanities Graduate Fellow on “Mapping Imaginary Miami,” supervised by Dr. Allison Schifani. Micaela has presented work at various conferences including the American Comparative Literature Association Annual Meeting and the Northeast Modern Language Annual Convention. She is the current Vice President of UM’s English Graduate Organization.
 
 ## Contact information
 mxd4207@miami.edu
