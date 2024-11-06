@@ -1,123 +1,45 @@
 ---
 layout: default
 ---
+# Micaela Donabella
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+## About me
 
-[Link to another page](./another-page.html).
+*Micaela* is a fourth-year PhD candidate. Her research focuses on representations of disability and technology within literary and internet cultures. Prior to beginning her PhD, she spent three years working as a K-12 educator and received an M.A. in English from the University at Buffalo. Micaela served as the UGrow Writing Studies Fellow during academic year 2023-2024 and was formerly a Digital Humanities Graduate Fellow on “Mapping Imaginary Miami,” supervised by Dr. Allison Schifani. Micaela has presented work at various conferences including the American Comparative Literature Association Annual Meeting and the Northeast Modern Language Annual Convention. She is the current Vice President of UM’s English Graduate Organization.
 
-There should be whitespace between paragraphs.
+## Contact information
+mxd4207@miami.edu
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## Education
 
-# Header 1
+- **University of Miami** - Ph.D. Candidate/Graduate Assistant, English Literature
+- **University at Buffalo** - M.A., English Literature
+- **SUNY Oswego** - B.A., Sociology and Creative Writing
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+## Work
 
-## Header 2
+**UGrow Fellow, Writing Studies** | University of Miami | 08/2023 – present
+**Graduate Teaching Assistant** | University of Miami | 08/2021 – present 
+**High School English Teacher** | Archimedean Upper Conservatory | 2019 – 2021
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+## Fellowships
+**GAFAC Travel Award** | Spring 2024
+**Kriloff Travel Award** | Spring 2023, Spring 2024
+**UGrow Fellow** | Writing Studies 2023 - 2024
+**Digital Humanities Graduate Fellow** | Mapping Imaginary Miami 05/2023 – 09/2023
 
-### Header 3
+## Conference Presentations 
+"Cyborgs, Robots, and Surplus Labor," Northeast Modern Language Association Annual Convention, Philadelphia, PA, March 6-9, 2025 (accepted)
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+“Disability at the End of the World: Where Speculative Fiction Misses,” American Comparative Literature Association Annual Conference, Montréal, CA, March 14-17, 2024
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+“Cyborg Resistance to Technoableism, or Disabled Responses to Health Gimmicks,” Northeast Modern Language Association Annual Convention, Boston, MA, March 7-10, 2024
 
-#### Header 4
+“Dreaming the Cyborg: Biohacking, Technoableism, & Disabled Futures,” The Humanities Center at Texas Tech Annual Conference 2023: “Health,” Texas Tech University, Lubbock, Texas, April 28-29, 2023
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+“Reading Somatic Difference in the ECDA,” Digital Humanities Research Institute, University of Miami, Miami, FL, March 30-31, 2023
 
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+“Resistance Through Poiesis: Responding to Heidegger in the State of Software Ubiquity,” Symposium for English Graduate Students (SEGUE), College at Brockport, Brockport, NY, February 23, 2019
 
 
-### Definition lists can be used with HTML syntax.
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
