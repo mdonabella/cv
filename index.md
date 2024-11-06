@@ -18,20 +18,20 @@ mxd4207@miami.edu
 
 ## Work
 
-**UGrow Fellow, Writing Studies** | University of Miami | 08/2023 – present
+**UGrow Fellow, Writing Studies**, University of Miami, 08/2023 – present
 
-**Graduate Teaching Assistant** | University of Miami | 08/2021 – present 
+**Graduate Teaching Assistant**, University of Miami, 08/2021 – present 
 
-**High School English Teacher** | Archimedean Upper Conservatory | 2019 – 2021
+**High School English Teacher**, Archimedean Upper Conservatory, Miami, FL, 2019 – 2021
 
 ## Fellowships
-**GAFAC Travel Award** | Spring 2024
+**GAFAC Travel Award**, Spring 2024
 
-**Kriloff Travel Award** | Spring 2023, Spring 2024
+**Kriloff Travel Award**, Spring 2023, Spring 2024
 
-**UGrow Fellow** | Writing Studies 2023 - 2024
+**UGrow Fellow**, Writing Studies 2023 - 2024
 
-**Digital Humanities Graduate Fellow** | Mapping Imaginary Miami 05/2023 – 09/2023
+**Digital Humanities Graduate Fellow**, Mapping Imaginary Miami 05/2023 – 09/2023
 
 ## Conference Presentations 
 "Cyborgs, Robots, and Surplus Labor," Northeast Modern Language Association Annual Convention, Philadelphia, PA, March 6-9, 2025 (accepted)
