@@ -15,7 +15,7 @@ mxd4207@miami.edu
 - **SUNY Oswego** - B.A., Sociology and Creative Writing
 
 ## Instructional Experience
-**UGrow Fellow, Writing Studies**, University of Miami, 08/2023 – present
+**UGrow Fellow, Writing Studies**, University of Miami, 08/2023 – 05/2024
 
 **Graduate Teaching Assistant**, University of Miami, 08/2021 – present 
 
