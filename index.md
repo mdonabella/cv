@@ -35,8 +35,6 @@ mxd4207@miami.edu
 
 “Cyborgs, Robots, and Surplus Labor,” Northeast Modern Language Association Annual Convention, Philadelphia, PA, March 6-9, 2025 
 
-"Cyborgs, Robots, and Surplus Labor," Northeast Modern Language Association Annual Convention, Philadelphia, PA, March 6-9, 2025 (accepted)
-
 “Disability at the End of the World: Where Speculative Fiction Misses,” American Comparative Literature Association Annual Conference, Montréal, CA, March 14-17, 2024
 
 “Cyborg Resistance to Technoableism, or Disabled Responses to Health Gimmicks,” Northeast Modern Language Association Annual Convention, Boston, MA, March 7-10, 2024
