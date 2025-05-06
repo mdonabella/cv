@@ -4,7 +4,7 @@ layout: default
 
 ## About me
 
-**Micaela** is a fourth-year PhD candidate at the University of Miami. Her research focuses on representations of disability and technology within literary and internet cultures. Prior to beginning her PhD, she spent three years working as a K-12 educator and received an M.A. in English from the University at Buffalo. Micaela served as the UGrow Writing Studies Fellow during academic year 2023-2024 and was formerly a Digital Humanities Graduate Fellow on “Mapping Imaginary Miami,” supervised by Dr. Allison Schifani. Micaela has presented work at various conferences including the American Comparative Literature Association Annual Meeting and the Northeast Modern Language Annual Convention. She is the current Vice President of UM’s English Graduate Organization.
+**Micaela** is a fourth-year PhD candidate at the University of Miami. Her research focuses on representations of disability and technology within literary and internet cultures. Prior to beginning her PhD, she spent three years working as a K-12 educator and received an M.A. in English from the University at Buffalo. Micaela served as the UGrow Writing Studies Fellow during academic year 2023-2024 and was formerly a Digital Humanities Graduate Fellow on “Mapping Imaginary Miami,” supervised by Dr. Allison Schifani. Micaela has presented papers at various conferences including the American Comparative Literature Association Annual Meeting and the Northeast Modern Language Annual Convention and has work forthcoming in *Pulse: Journal of Science and Culture*. She is the current Vice President of UM’s English Graduate Organization.
 
 ## Contact information
 mxd4207@miami.edu
@@ -15,7 +15,7 @@ mxd4207@miami.edu
 - **SUNY Oswego** - B.A., Sociology and Creative Writing
 
 ## Instructional Experience
-**UGrow Fellow, Writing Studies**, University of Miami, 08/2023 – 05/2024
+**UGrow Fellow, Department of Writing Studies**, University of Miami, 08/2023 – 05/2024
 
 **Graduate Teaching Assistant**, University of Miami, 08/2021 – present 
 
@@ -31,6 +31,10 @@ mxd4207@miami.edu
 **Digital Humanities Graduate Fellow**, *Mapping Imaginary Miami*, 05/2023 – 09/2023
 
 ## Conference Presentations 
+5th Annual Digital IDEAS Summer Institute, University of Michigan, Ann Arbor, June 23-27, 2025 
+
+“Cyborgs, Robots, and Surplus Labor,” Northeast Modern Language Association Annual Convention, Philadelphia, PA, March 6-9, 2025 
+
 "Cyborgs, Robots, and Surplus Labor," Northeast Modern Language Association Annual Convention, Philadelphia, PA, March 6-9, 2025 (accepted)
 
 “Disability at the End of the World: Where Speculative Fiction Misses,” American Comparative Literature Association Annual Conference, Montréal, CA, March 14-17, 2024
