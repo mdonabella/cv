@@ -22,11 +22,13 @@ mxd4207@miami.edu
 **High School English Teacher**, Archimedean Upper Conservatory, 2019 – 2021
 
 ## Fellowships and Awards
+**Summer Doctoral Micro-Grant**, The Graduate School, Summer 2025
+
 **Graduate Activity Fee Allocation Committee (GAFAC) Travel Award**, Spring 2024
 
 **Kriloff Travel Award**, Spring 2023, Spring 2024
 
-**UGrow Fellow**, Writing Studies, AY 2023 - 2024
+**UGrow Fellow**, Department of Writing Studies, AY 2023 - 2024
 
 **Digital Humanities Graduate Fellow**, *Mapping Imaginary Miami*, 05/2023 – 09/2023
 
