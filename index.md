@@ -22,6 +22,8 @@ mxd4207@miami.edu
 **High School English Teacher**, Archimedean Upper Conservatory, 2019 – 2021
 
 ## Fellowships and Awards
+**Dissertation Fellow**, The Graduate School, AY 2025-2026
+
 **Summer Doctoral Micro-Grant**, The Graduate School, Summer 2025
 
 **Graduate Activity Fee Allocation Committee (GAFAC) Travel Award**, Spring 2024
