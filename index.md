@@ -33,7 +33,7 @@ mxd4207@miami.edu
 **Digital Humanities Graduate Fellow**, *Mapping Imaginary Miami*, 05/2023 – 09/2023
 
 ## Conferences
-5th Annual Digital IDEAS Summer Institute, University of Michigan, Ann Arbor, June 23-27, 2025 
+5th Annual Digital IDEAS Summer Institute, University of Michigan, Ann Arbor, June 23-27, 2025 (selected participant)
 
 “Cyborgs, Robots, and Surplus Labor,” Northeast Modern Language Association Annual Convention, Philadelphia, PA, March 6-9, 2025 
 
