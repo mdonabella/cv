@@ -15,16 +15,18 @@ mxd4207@miami.edu
 - **SUNY Oswego** - B.A., Sociology and Creative Writing
 
 ## Instructional Experience
-**UGrow Fellow, Department of Writing Studies**, University of Miami, 08/2023 – 05/2024
-
-**Graduate Teaching Assistant**, University of Miami, 08/2021 – present 
+**Graduate Teaching Assistant**, University of Miami, 08/2021 – present
 
 **High School English Teacher**, Archimedean Upper Conservatory, 2019 – 2021
+
+**AmeriCorps Member**, Great Oaks Schools, Wilmington, DE, 2017-2018
 
 ## Fellowships and Awards
 **Dissertation Fellow**, The Graduate School, AY 2025-2026
 
 **Summer Doctoral Micro-Grant**, The Graduate School, Summer 2025
+
+**UGrow Fellow, Department of Writing Studies**, University of Miami, 08/2023 – 05/2024
 
 **Graduate Activity Fee Allocation Committee (GAFAC) Travel Award**, Spring 2024
 
