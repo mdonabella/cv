@@ -16,7 +16,11 @@ mxd4207@miami.edu
 
 ## Instructional Experience
 **Graduate Teaching Assistant**, University of Miami, 08/2021 – present
-
+-   Writing about Literature and Culture: Writing in the Digital Age
+    Writing about Literature and Culture: Disability in Literature and the Media
+    First-Year Writing II: Disabiltiy in the Media; Norms & the 1950s
+    First-Year Writing I
+    
 **High School English Teacher**, Archimedean Upper Conservatory, 2019 – 2021
 
 **AmeriCorps Member**, Great Oaks Schools, Wilmington, DE, 2017-2018
