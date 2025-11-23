@@ -16,7 +16,7 @@ mxd4207@miami.edu
 
 ## Instructional Experience
 **Graduate Teaching Assistant**, University of Miami, 08/2021 – present
--   Writing about Literature and Culture: Writing in the Digital Age - Spring 2025, Summer 2025
+-   Writing about Literature and Culture: Writing in the Digital Age - Summer 2025, Spring 2025
 -   Writing about Literature and Culture: Disability in Literature and the Media - Fall 2024
 -   First-Year Writing II: Disabiltiy in the Media; Norms & the 1950s - Fall 2024, Fall 2023; Spring 2024
 -   First-Year Writing I - Fall 2022
