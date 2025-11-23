@@ -11,10 +11,6 @@ mxd4207@miami.edu
 
 ## Education
 - **University of Miami** - Ph.D. Candidate/Graduate Assistant, English Literature
-            Writing about Literature and Culture: Writing in the Digital Age
-            Writing about Literature and Culture: Disability in Literature and the Media
-            First-Year Writing II: Disabiltiy in the Media; Norms & the 1950s
-            First-Year Writing I
 - **University at Buffalo** - M.A., English Literature
 - **SUNY Oswego** - B.A., Sociology and Creative Writing
 
