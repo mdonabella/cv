@@ -11,6 +11,10 @@ mxd4207@miami.edu
 
 ## Education
 - **University of Miami** - Ph.D. Candidate/Graduate Assistant, English Literature
+            Writing about Literature and Culture: Writing in the Digital Age
+            Writing about Literature and Culture: Disability in Literature and the Media
+            First-Year Writing II: Disabiltiy in the Media; Norms & the 1950s
+            First-Year Writing I
 - **University at Buffalo** - M.A., English Literature
 - **SUNY Oswego** - B.A., Sociology and Creative Writing
 
@@ -28,13 +32,11 @@ mxd4207@miami.edu
 
 **UGrow Fellow, Department of Writing Studies**, University of Miami, 08/2023 – 05/2024
 
+**Digital Humanities Graduate Fellow**, *Mapping Imaginary Miami*, 05/2023 – 09/2023
+
 **Graduate Activity Fee Allocation Committee (GAFAC) Travel Award**, Spring 2024
 
 **Kriloff Travel Award**, Spring 2023, Spring 2024
-
-**UGrow Fellow**, Department of Writing Studies, AY 2023 - 2024
-
-**Digital Humanities Graduate Fellow**, *Mapping Imaginary Miami*, 05/2023 – 09/2023
 
 ## Conferences
 5th Annual Digital IDEAS Summer Institute, University of Michigan, Ann Arbor, June 23-27, 2025 (selected participant)
