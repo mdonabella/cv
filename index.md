@@ -4,7 +4,7 @@ layout: default
 
 ## About me
 
-**Micaela** is a fifth-year PhD candidate at the University of Miami. Her current research explores the relationship between disability and technology as represented in twenty-first century speculative fiction. Prior to beginning her PhD, she spent three years working as a K-12 educator and received an M.A. in English from the University at Buffalo. Micaela served as the UGrow Writing Studies Fellow during academic year 2023-2024 and was formerly a Digital Humanities Graduate Fellow on “Mapping Imaginary Miami." She has presented papers at various conferences including the American Comparative Literature Association Annual Meeting and the Northeast Modern Language Annual Convention and has published work in [*Pulse: The Journal of Science and Culture*](https://www.pulse-journal.org/). 
+**Micaela** is a fifth-year PhD candidate at the University of Miami. Her current research explores the relationship between disability and technology as represented in twenty-first century speculative fiction. Prior to beginning her PhD, she spent three years working as a K-12 educator and received an M.A. in English from the University at Buffalo. Micaela served as the UGrow Writing Studies Fellow during academic year 2023-2024 and as a Digital Humanities Graduate Fellow on “Mapping Imaginary Miami" during summer 2023. She has presented papers at various conferences including the American Comparative Literature Association Annual Meeting and the Northeast Modern Language Annual Convention and has published work in [*Pulse: The Journal of Science and Culture*](https://www.pulse-journal.org/). 
 
 ## Contact information
 mxd4207@miami.edu
