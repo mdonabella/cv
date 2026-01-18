@@ -4,7 +4,7 @@ layout: default
 
 ## About me
 
-**Micaela** is a fifth-year PhD candidate at the University of Miami. Her research focuses on representations of disability and technology within literary and internet cultures. Prior to beginning her PhD, she spent three years working as a K-12 educator and received an M.A. in English from the University at Buffalo. Micaela served as the UGrow Writing Studies Fellow during academic year 2023-2024 and was formerly a Digital Humanities Graduate Fellow on “Mapping Imaginary Miami,” supervised by Dr. Allison Schifani. Micaela has presented papers at various conferences including the American Comparative Literature Association Annual Meeting and the Northeast Modern Language Annual Convention and has published work in [*Pulse: The Journal of Science and Culture*](https://www.pulse-journal.org/). She is the current Chair of UM’s English Graduate Organization and a 2025-2026 Dissertation Fellow with the Graduate School.
+**Micaela** is a fifth-year PhD candidate at the University of Miami. Her current research explores disability as it intersects with technology, gender, and labor in twenty-first century speculative fiction. Prior to beginning her PhD, she spent three years working as a K-12 educator and received an M.A. in English from the University at Buffalo. Micaela served as the UGrow Writing Studies Fellow during academic year 2023-2024 and was formerly a Digital Humanities Graduate Fellow on “Mapping Imaginary Miami." She has presented papers at various conferences including the American Comparative Literature Association Annual Meeting and the Northeast Modern Language Annual Convention and has published work in [*Pulse: The Journal of Science and Culture*](https://www.pulse-journal.org/). 
 
 ## Contact information
 mxd4207@miami.edu
@@ -14,6 +14,9 @@ mxd4207@miami.edu
 - **University at Buffalo** - M.A., English Literature
 - **SUNY Oswego** - B.A., Sociology and Creative Writing
 
+## Disseration 
+_Technological Optimism and Cyborg Resistance: Navigating Technofutures in Literature and Culture_
+
 ## Instructional Experience
 **Graduate Teaching Assistant**, University of Miami, 08/2021 – present
 -   Writing about Literature and Culture: Writing in the Digital Age - Summer 2025, Spring 2025
@@ -22,8 +25,6 @@ mxd4207@miami.edu
 -   First-Year Writing I - Fall 2022
     
 **High School English Teacher**, Archimedean Upper Conservatory, 2019 – 2021
-
-**AmeriCorps Member**, Great Oaks Schools, Wilmington, DE, 2017-2018
 
 ## Fellowships and Awards
 **Dissertation Fellow**, The Graduate School, AY 2025-2026
@@ -52,6 +53,22 @@ mxd4207@miami.edu
 “Reading Somatic Difference in the Early Caribbean Digital Archive,” Digital Humanities Research Institute, University of Miami, Miami, FL, March 30-31, 2023
 
 “Resistance Through Poiesis: Responding to Heidegger in the State of Software Ubiquity,” Symposium for English Graduate Students (SEGUE), College at Brockport, Brockport, NY, February 23, 2019
+
+
+## Service & Organizations (UM)
+
+**Queer Studies Interdisciplinary Research Group,** Co-Convener, Fall 2025
+
+**Digital Humanities Interdisciplinary Research Group,** Participating Member, Fall 2023-present
+
+**English Graduate Organization,** Chair (AY 2025-2026); Co-Chair (AY 2024-2025); Secretary
+(AY 2023-2024)
+
+**Graduate Student Association,** Senator (AY 2022-2023; 2023-2024)
+
+**Audley Webster Memorial Essay Competition,** Reviewer (2021-2022; 2023-2024)
+
+
 
 
 
