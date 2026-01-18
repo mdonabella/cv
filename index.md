@@ -55,7 +55,7 @@ _Technological Optimism and Cyborg Resistance: Navigating Technofutures in Liter
 “Resistance Through Poiesis: Responding to Heidegger in the State of Software Ubiquity,” Symposium for English Graduate Students (SEGUE), College at Brockport, Brockport, NY, February 23, 2019
 
 
-## Service & Organizations (UM)
+## Service & Organizations
 
 **Queer Studies Interdisciplinary Research Group,** Co-Convener, Fall 2025
 
