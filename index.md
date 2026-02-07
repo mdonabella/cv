@@ -26,6 +26,8 @@ _Technological Optimism and Cyborg Resistance: Navigating Technofutures in Liter
     
 **High School English Teacher**, Archimedean Upper Conservatory, 2019 – 2021
 
+**Course Assistant**, University at Buffalo, 08/2018-12/2018
+
 ## Fellowships and Awards
 **Dissertation Fellow**, The Graduate School, AY 2025-2026
 
