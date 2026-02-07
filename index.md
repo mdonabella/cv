@@ -14,7 +14,7 @@ mxd4207@miami.edu
 - **University at Buffalo** - M.A., English Literature
 - **SUNY Oswego** - B.A., Sociology and Creative Writing
 
-## Disseration 
+## Dissertation 
 _Technological Optimism and Cyborg Resistance: Navigating Technofutures in Literature and Culture_
 
 ## Instructional Experience
