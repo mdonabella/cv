@@ -4,7 +4,7 @@ layout: default
 
 ## About me
 
-**Micaela** is a fifth-year PhD candidate at the University of Miami. Her current research explores the relationship between disability and technology as represented in twenty-first century speculative fiction. Prior to beginning her PhD, she spent three years working as a K-12 educator and received an M.A. in English from the University at Buffalo. Micaela is an AY 2025-2026 Dissertation Fellow with the Graduate School (UM). She previously served as UGrow Fellow for the Department of Writing Studies (AY 2023-2024) and Digital Humanities Graduate Fellow on "Mapping Imaginary Miami" (Summer 2023). Her work appears in [*Pulse: The Journal of Science and Culture*](https://www.pulse-journal.org/). 
+**Micaela** is a PhD candidate at the University of Miami. Her current research explores the relationship between disability and technology as represented in twenty-first century speculative fiction and online cultures. Prior to beginning her PhD, she spent three years working as a K-12 educator and received an M.A. in English from the University at Buffalo. She previously served as UGrow Fellow for the Department of Writing Studies (AY 2023-2024), Digital Humanities Graduate Fellow on "Mapping Imaginary Miami" (Summer 2023), and was a UM Graduate School Dissertation Fellow during AY 2025-2026. 
 
 ## Contact information
 mxd4207@miami.edu
@@ -42,7 +42,7 @@ _Technological Optimism and Cyborg Resistance: Navigating Technofutures in Liter
 **Kriloff Travel Award**, Spring 2023, Spring 2024
 
 ## Conferences
-“Sustaining Ethical Research in Times and Positions of Precarity," Computers & Writing Conference, Charlotte, NC, June 4-7, 2026
+“Sustaining Ethical Internet Research in Times and Positions of Precarity," Panelist, Computers & Writing Conference, Charlotte, NC, June 4-7, 2026
 
 5th Annual Digital IDEAS Summer Institute, University of Michigan, Ann Arbor, June 23-27, 2025 (selected participant)
 
@@ -58,6 +58,11 @@ _Technological Optimism and Cyborg Resistance: Navigating Technofutures in Liter
 
 “Resistance Through Poiesis: Responding to Heidegger in the State of Software Ubiquity,” Symposium for English Graduate Students (SEGUE), College at Brockport, NY, February 23, 2019
 
+## Publications 
+
+“The Incidental Disability Politics of Klara and the Sun,” *Extrapolation* (forthcoming 2027)
+
+“Wearable Tech & the Casualization of Biometric Surveillance in Wellness Culture,” *Pulse: The Journal of Science and Culture*, vol. 11, Central European University (2024)
 
 ## Service & Organizations (UM)
 
@@ -71,6 +76,7 @@ _Technological Optimism and Cyborg Resistance: Navigating Technofutures in Liter
 **Graduate Student Association,** Senator (AY 2022-2023; 2023-2024)
 
 **Audley Webster Memorial Essay Competition,** Reviewer (2021-2022; 2023-2024)
+
 
 
 
