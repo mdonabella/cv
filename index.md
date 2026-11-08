@@ -15,10 +15,11 @@ mxd4207@miami.edu
 - **SUNY Oswego** - B.A., Sociology and Creative Writing
 
 ## Dissertation 
-_Technological Optimism and Cyborg Resistance: Navigating Technofutures in Literature and Culture_
+_Figuring Debility: Disability, Labor, and the Technopolitics of Speculative Fiction_
 
 ## Instructional Experience
 **Graduate Teaching Assistant**, University of Miami, 08/2021 – present
+-   Special Topics in American Studies: Disability in U.S. Politics and Culture - Spring 2027
 -   Writing about Literature and Culture: Writing in the Digital Age - Summer 2025, Spring 2025
 -   Writing about Literature and Culture: Disability in Literature and the Media - Fall 2024
 -   First-Year Writing II: Disability in the Media; Norms & the 1950s - Fall 2024, Fall 2023; Spring 2024
